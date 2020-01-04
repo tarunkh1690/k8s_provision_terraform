@@ -1,7 +1,3 @@
-variable "profile" {
-  default = "Chef-Client"
-}
-
 variable "security_group" {
   default = "sg-021f2b4cb2952db03"
 }
