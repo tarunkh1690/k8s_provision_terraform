@@ -5,3 +5,6 @@ We can use this terraform playbook to create k8s cluster on AWS.It will create c
 Its just a small contribution we can do lots of things to make this project to more flexible for entire new infra like creating new VPC and separate hosted zone for k8s cluster. 
 
 # keep learning !!
+
+To deploy helm
+https://www.digitalocean.com/community/tutorials/how-to-install-software-on-kubernetes-clusters-with-the-helm-2-package-manager
