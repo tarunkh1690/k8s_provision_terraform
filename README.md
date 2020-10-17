@@ -7,4 +7,9 @@ Its just a small contribution we can do lots of things to make this project to m
 # keep learning !!
 
 To deploy helm
+
 https://www.digitalocean.com/community/tutorials/how-to-install-software-on-kubernetes-clusters-with-the-helm-2-package-manager
+
+prometheus-operator
+
+https://github.com/helm/charts/tree/master/stable/prometheus-operator
